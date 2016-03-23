@@ -65,6 +65,7 @@
 		}
 	},
 	"replace": {
+		"typo3/cms": "self.version",
 		"typo3/cms-about": "self.version",
 		"typo3/cms-aboutmodules": "self.version",
 		"typo3/cms-adodb": "self.version",
